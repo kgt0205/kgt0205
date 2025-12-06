@@ -38,7 +38,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@kim.geuntae)
 [![Twitch](https://img.shields.io/badge/Twitch-Live-9146FF?style=flat&logo=twitch&logoColor=white)](https://twitch.tv/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/kr_geuntae)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kr-geuntae)
+[![X](https://img.shields.io/badge/X-Follow-0A66C2?style=flat&logo=X&logoColor=white)](https://x.com/kgt0205)
 
 ---
