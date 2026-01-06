@@ -22,7 +22,7 @@
 ---
 
 ## 📌 Featured Projects
-- [🌐 Personal Website](https://geuntaek.top) — My own portfolio & blog
+- [🌐 Personal Website](https://geuntae.kr) — My own portfolio & blog
 - [🌐 KR Namu Wiki](https://namu.wiki/w/사용자:kgt3212) - Namu Wiki My Document
 
 ---
