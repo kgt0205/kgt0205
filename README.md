@@ -28,8 +28,8 @@
 ---
 
 ## 📊 GitHub Stats
-![Stats](http://github-readme-stats.geuntae.kr/api?username=kgt0205&show_icons=true&theme=tokyonight)
-![Top Langs](http://github-readme-stats.geuntae.kr/api/top-langs/?username=kgt0205&layout=compact&theme=tokyonight)
+![Stats](http://github-readme-stats.geuntae.kr/api?username=kgt0205&show_icons=true&theme=tokyonight&cache_seconds=86400)
+![Top Langs](http://github-readme-stats.geuntae.kr/api/top-langs/?username=kgt0205&layout=compact&theme=tokyonight&cache_seconds=86400)
 
 ---
 
