@@ -35,11 +35,11 @@
 
 ## 🌐 Connect with Me
 
-[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/ZGzx8FpPEA)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@kim.geuntae)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/NvFSN5R8dc)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@kgt8182)
 [![Twitch](https://img.shields.io/badge/Twitch-Live-9146FF?style=flat&logo=twitch&logoColor=white)](https://twitch.tv/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/kr_geuntae)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kr-geuntae)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/2009_02_05)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kgt0205/)
 [![X](https://img.shields.io/badge/X-Follow-0A66C2?style=flat&logo=X&logoColor=white)](https://x.com/kgt0205)
 
 ---
