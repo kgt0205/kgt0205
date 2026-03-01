@@ -28,8 +28,8 @@
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=kgt0205&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kgt0205&layout=compact&theme=tokyonight)
+![Stats](https://github-readme-stats-theta-blue-29.vercel.app/api?username=kgt0205&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-theta-blue-29.vercel.app/api/top-langs/?username=kgt0205&layout=compact&theme=tokyonight)
 
 ---
 
