@@ -1,45 +1,42 @@
-# 👋 Hello, I'm Geuntae Kim
+# Hi there, I'm Geuntae Kim(김근태)👋
+### 🚀 Developer who loves Business Development
 
-💻 Developer & Designer | 🌱 Always Learning | 🛠 Problem Solver  
-🎯 Interests: Web Development, System Architecture, Creative Coding
-
----
-
-## 🛠 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+사업가적인 마인드로 서비스의 가치를 창출하는 것을 즐기는 개발자입니다.  
+단순한 코딩을 넘어 비즈니스 모델의 확장성과 사용자 경험을 깊게 고민합니다.
 
 ---
 
-## 📌 Featured Projects
-- [🌐 Personal Website](https://geuntae.kr) — My own portfolio & blog
-- [🌐 KR Namu Wiki](https://namu.wiki/w/사용자:kgt3212) - Namu Wiki My Document
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&center=true&vCenter=true&width=435&lines=Dream+is+Life.;New+ideas+change+the+world.;Until+you+get+to+something.)](https://git.io/typing-svg)
 
 ---
 
-## 📊 GitHub Stats
-![Stats](http://github-readme-stats.geuntae.kr/api?username=kgt0205&show_icons=true&theme=tokyonight&cache_seconds=86400)
-![Top Langs](http://github-readme-stats.geuntae.kr/api/top-langs/?username=kgt0205&layout=compact&theme=tokyonight&cache_seconds=86400)
+### 💼 Current Status
+- 🏢 **Current Company:** [Mongon Inc.](https://github.com/mongon-inc)
+- 📅 **Birth Date:** 2009. 02. 05
+- 📍 **Based in:** Seoul, South Korea
+
+### 🛠 Tech Stack
+
+#### 💻 Languages & Frameworks
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+#### ⚡ Databases
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+
+#### 🐧 Operating Systems
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"> <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
 
 ---
 
-## 🌐 Connect with Me
-
-[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/NvFSN5R8dc)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@kgt8182)
-[![Twitch](https://img.shields.io/badge/Twitch-Live-9146FF?style=flat&logo=twitch&logoColor=white)](https://twitch.tv/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/2009_02_05)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kgt0205/)
-[![X](https://img.shields.io/badge/X-Follow-0A66C2?style=flat&logo=X&logoColor=white)](https://x.com/kgt0205)
+### 🔗 Connect with Me
+- 📧 **Email:** [reach@geuntae.kr](mailto:reach@geuntae.kr)
+- 🌐 **Portfolio:** [🚀 My Portfolio](https://geuntae.kr)
+#### 📱 **SNS**
+<a href="https://instagram.com/2009_02_05"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://linkedin.com/in/kgt0205"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://discord.gg/NvFSN5R8dc"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 
 ---
+
+### 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.geuntae.kr/api?username=kgt0205&show_icons=true&theme=radical)
+
+---
+*Last Updated: 2026. 03. 02*
