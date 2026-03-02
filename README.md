@@ -6,7 +6,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&center=true&vCenter=true&width=435&lines=Dream+is+Life.;New+ideas+change+the+world.;Until+you+get+to+something.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&center=true&vCenter=true&width=435&lines=Dream+is+Life.;New+ideas+change+the+world.;Until+i+get+to+something.)]
 
 ---
 
