@@ -13,7 +13,7 @@
 ### 💼 Current Status
 - 🏢 **Current Company:** [Mongon Inc.](https://github.com/mongon-inc)
 - 📅 **Birth Date:** 2009. 02. 05
-- 📍 **Based in:** Seoul, South Korea
+- 📍 **Based in:** Daegu, South Korea
 
 ### 🛠 Tech Stack
 
