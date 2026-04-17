@@ -50,7 +50,7 @@
 - 📧 **Email:** [reach@geuntae.kr](mailto:reach@geuntae.kr)
 - 🌐 **Portfolio:** [🚀 My Portfolio](https://geuntae.kr)
 #### 📱 **SNS**
-<a href="https://instagram.com/2009_02_05"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://linkedin.com/in/kgt0205"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://discord.gg/NvFSN5R8dc"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://instagram.com/k090205"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://linkedin.com/in/kgt0205"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://discord.gg/NvFSN5R8dc"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 
 ---
 
@@ -58,4 +58,4 @@
 ![Your GitHub stats](https://github-readme-stats.geuntae.kr/api?username=kgt0205&show_icons=true&theme=radical)
 
 ---
-*Last Updated: 2026. 03. 02*
+*Last Updated: 2026. 04. 17*
